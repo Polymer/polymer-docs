@@ -5,14 +5,13 @@
     "polymer": "Polymer/polymer#master"
   },
   "homepage": "https://github.com/Polymer/marked-js",
-  "_release": "14b6f6acfa",
+  "_release": "3e133fb54b",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "14b6f6acfa7503e57b19cb24b6e3884f7a8b4211"
+    "commit": "3e133fb54baf6e163260856656acbb28fe1cac14"
   },
   "_source": "git://github.com/Polymer/marked-js.git",
   "_target": "master",
-  "_originalSource": "Polymer/marked-js",
-  "_direct": true
+  "_originalSource": "Polymer/marked-js"
 }

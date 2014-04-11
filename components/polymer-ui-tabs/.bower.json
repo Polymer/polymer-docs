@@ -7,11 +7,11 @@
     "polymer-flex-layout": "Polymer/polymer-flex-layout#master"
   },
   "homepage": "https://github.com/Polymer/polymer-ui-tabs",
-  "_release": "23ae607397",
+  "_release": "271312e1d4",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "23ae6073977ca74237d404a64f6915a7d1bddb22"
+    "commit": "271312e1d446698d010b3f96f3f5fbab0a77e3e4"
   },
   "_source": "git://github.com/Polymer/polymer-ui-tabs.git",
   "_target": "master",

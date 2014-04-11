@@ -15,11 +15,11 @@
     "polymer-ui-toolbar": "Polymer/polymer-ui-toolbar#master"
   },
   "homepage": "https://github.com/Polymer/polymer-ui-dropup",
-  "_release": "f9f6adbb61",
+  "_release": "971be3ecb3",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "f9f6adbb610d4ee24c75229504708b51f91d1b46"
+    "commit": "971be3ecb313b2331bc38681723bb2130aa83452"
   },
   "_source": "git://github.com/Polymer/polymer-ui-dropup.git",
   "_target": "master",
